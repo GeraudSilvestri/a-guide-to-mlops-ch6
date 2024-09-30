@@ -1,0 +1,5 @@
+data/
+evaluation/
+model/
+.venv/
+__pycache__/
